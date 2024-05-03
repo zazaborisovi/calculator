@@ -95,15 +95,15 @@ h1{
 
 @media screen and(max-width: 600px) {
     .parent{
-        grid-template-columns: repeat(18 , 20px);
-        grid-template-rows: repeat(21 , 20px);
+        grid-template-columns: repeat(18 , 15px);
+        grid-template-rows: repeat(21 , 15px);
     }
     .sum{
-        grid-template-rows: repeat(4 , 20px);
-        grid-template-columns: repeat(18 , 20px);
+        grid-template-rows: repeat(4 , 15px);
+        grid-template-columns: repeat(18 , 15px);
     }
     .numbersParent{
-        width: 280px;
+        width: 225px;
     }
     .mathFunctions{
         grid-row: 5/19;
